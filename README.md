@@ -1,9 +1,9 @@
-#Curso Web Moderno com JavaScript
+# Curso Web Moderno com JavaScript
 
 Curso oferecido pela plataforma Udemy e lecionado por Leonardo Moura Leitão.
 [Clique aqui](https://www.udemy.com/course/curso-web/) para mais informações.
 
-##Tópicos abordados no curso: 
+## Tópicos abordados no curso: 
 
 * JavaScript
 * Node Js
